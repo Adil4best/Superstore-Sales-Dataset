@@ -42,11 +42,6 @@ The dataset used in this project contains sales transaction data including:
 
 *(Dataset sourced from Kaggle / sample sales dataset)*
 
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](Screenshot.png)
 
 ---
 
